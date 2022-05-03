@@ -1,6 +1,6 @@
 package Lev2;
 
-public class Common_Mutiple_Count {
+public class Common_Mutiple {
 
 	public static void main(String[] args) {
 
